@@ -1,0 +1,1 @@
+java -jar cachecloud-util-1.0-SNAPSHOT.jar
